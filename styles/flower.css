@@ -119,16 +119,13 @@ object-position: bottom; }
 
 }
 
-  .flower-banner { 
-    
-    
-    }
+  
      .flower-pic {  width: 350px;
         height:450px;
     padding-bottom: 60px; 
  }
   
-.flower-decoration { }
+
 .flower-pic { padding-left: 60px;}
 .flower-banner { padding-left: 60px;}
 .flower-deco-des { padding: 0,  60px ;
@@ -144,15 +141,20 @@ object-position: bottom; }
         
         font-weight: 800;}
 
-    .all-skill {display:flex ;
-    gap: 15px 
-
-
-
+    .all-flower{display:flex ;
+    gap: 15px ;
+padding-left: 45px; }
 
     
-    } 
-    .all-together { padding-bottom: 50px ;}
+ 
+
+/** moving banner**/
+
+.moving-banner { padding: 70px ; }
+.m{ padding-left: 70 px;}
+
+    
+  
 
 
 
@@ -160,7 +162,19 @@ object-position: bottom; }
 
 
 
+.background-image-flower { background-image: url("Rectangle\ 9.png");
 
+
+
+background-repeat: no-repeat;
+width: 1440px;
+height: 449px;
+margin-top: 60px ;
+margin-left: 200px;
+margin-right: 200px;
+margin-bottom: 100px ;
+padding-right: 200px; 
+}
 
 
 
@@ -178,7 +192,7 @@ object-position: bottom; }
         
 }
 .footer-title { 
-    paddingmargin-bottom: 20px;}
+    margin-bottom: 20px;}
 
                 .text-primary {color: #E55473; 
                     
