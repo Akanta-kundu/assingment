@@ -1,0 +1,80 @@
+.header { background: rgba(229, 84, 115, 0.10);
+ 
+
+ }
+
+  .banner {   
+display: flex; 
+align-items: center;
+justify-content: space-between;
+ 
+
+
+padding-left: 120px;
+padding-top: 50px;}
+
+
+
+  /*button design**/ 
+  .btn-primary { border-radius: 8px;
+    background: #E55473;
+     padding: 15px 20px;
+     color: #FFF ;
+
+
+
+
+   
+    gap: 10px;  } 
+
+    .banner-content { max-width: 50%; 
+     }
+    .banner-pic { padding: 50px 100px 0 0 
+        ;
+        height: 100%;
+    }
+
+    /** banner-pic**/ 
+    .banner-pic { width: 400px;
+        height:500px;
+    padding-right: 20px;
+object-position: bottom; }
+
+        /**banner title **/ 
+        .banner-title { color: #272727;
+           
+            font-size: 40px;
+            
+            font-weight: 700;
+             
+            }
+
+            .banner-des { color: rgba 39, 39, 39, 0.60;
+                
+                font-size: 18px;
+               
+                font-weight: 400;
+                
+           }
+        .featured-section { 
+            text-align: center;
+            padding: 170px, 700px, 0px, 700px ;
+            ;
+           
+            font-weight: 800;
+            }
+            .featured-title { color: #272727;
+                
+                padding-top: 100px ;
+                padding-left: 30px ;
+                padding-right: 30px;
+                
+                margin-bottom: 24px;
+              
+                font-weight: 800;
+               }
+               .featured-des { color: rgba(39, 39, 39, 0.60);
+                
+               padding-left: 60px;
+                padding-right: 100px;
+                font-weight: 400;}
