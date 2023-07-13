@@ -78,3 +78,131 @@ object-position: bottom; }
                padding-left: 60px;
                 padding-right: 100px;
                 font-weight: 400;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ /** paragraph added in instagram **/ 
+
+  #paragraph { padding-bottom: 40px; }
+
+
+
+
+
+
+ /** flower decoration section**/
+
+
+   .flower-decoration {  border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    
+ }
+ .flower-greeting-section { display: flex
+     ;
+    text-align: center;
+    align-items: center
+    ;
+
+}
+
+  .flower-banner { 
+    
+    
+    }
+     .flower-pic {  width: 350px;
+        height:450px;
+    padding-bottom: 60px; 
+ }
+  
+.flower-decoration { }
+.flower-pic { padding-left: 60px;}
+.flower-banner { padding-left: 60px;}
+.flower-deco-des { padding: 0,  60px ;
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    
+    font-size: 18px;
+
+    font-weight: 400;}
+    .flower-deco-title { color: #272727;
+        
+        font-size: 23px;
+        
+        font-weight: 800;}
+
+    .all-skill {display:flex ;
+    gap: 15px 
+
+
+
+
+    
+    } 
+    .all-together { padding-bottom: 50px ;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                /** footer section **/
+
+.footer { 
+    background: #111010;
+        text-align: center 
+       
+        
+}
+.footer-title { 
+    paddingmargin-bottom: 20px;}
+
+                .text-primary {color: #E55473; 
+                    
+                 
+                    font-size: 48px;
+                    
+                    font-weight: 800;
+                    } 
+                    .text-secondary { color: #FFF;
+                        font-size: 48px;
+                    
+                        font-weight: 800; }
+                        .footer-banner { padding: 120px 600px; }
+                     
+
+                        .footer-des { color: rgba(255, 255, 255, 0.90);
+                            text-align: center;
+                            
+                            font-size: 18px;
+                            margin-bottom: 32px;
+                            font-weight: 400;}
+                             .more-footer { color: rgba(255, 255, 255, 0.40);
+                                text-align: center;
+                              
+                                font-size: 16px;
+                             
+                                font-weight: 400; }
