@@ -16,6 +16,7 @@ padding-top: 50px;}
 
 
   /*button design**/ 
+
   .btn-primary { border-radius: 8px;
     background: #E55473;
      padding: 15px 20px;
@@ -39,6 +40,22 @@ padding-top: 50px;}
         height:500px;
     padding-right: 20px;
 object-position: bottom; }
+
+
+ /** flower border**/ 
+
+
+ .flower-border { display: flex; 
+           }
+
+  
+
+
+
+
+
+
+
 
         /**banner title **/ 
         .banner-title { color: #272727;
@@ -123,6 +140,7 @@ object-position: bottom; }
      .flower-pic {  width: 350px;
         height:450px;
     padding-bottom: 60px; 
+    margin-top: 20px;
  }
   
 
@@ -150,8 +168,10 @@ padding-left: 45px; }
 
 /** moving banner**/
 
-.moving-banner { padding: 70px ; }
-.m{ padding-left: 70 px;}
+.moving-banner { padding: 70px ; 
+padding-left: 70 px; 
+
+}
 
     
   
@@ -162,21 +182,48 @@ padding-left: 45px; }
 
 
 
-.background-image-flower { background-image: url("Rectangle\ 9.png");
+.background-image-flower {  
+    
+    
+    border-radius: 8px;
+
+    
+background: url("./Rectangle\ 9.png"), lightgray 0px -203.444px / 100% 213.755% no-repeat;
+
+  text-align: center;
+    
+margin-left: 40px;
+
+margin-top: 40px;
+margin-bottom: 40px;
+padding-top: 100px;
 
 
 
-background-repeat: no-repeat;
-width: 1440px;
-height: 449px;
-margin-top: 60px ;
-margin-left: 200px;
-margin-right: 200px;
-margin-bottom: 100px ;
-padding-right: 200px; 
+background-repeat: no-repeat; 
+
+
+
+
+width: 1425px;
+height: 350px;
 }
 
 
+.email {  align-items: center;
+    border-radius: 8px;
+    background: #FFF; } 
+
+
+    .email-btn 
+ {  }
+
+    .email { width: 450px;
+        height: 45px; border-radius: 8px;
+        background: #FFF;
+        flex-shrink: 0;
+        padding-left: 30px;
+ } 
 
 
 
